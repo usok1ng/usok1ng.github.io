@@ -52,6 +52,7 @@ Here's my brief <a href="../docs/CV.pdf" style="text-decoration:none;"> CV </a>
 [24Light: Conquer Light in Any Scene with Diffusion Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Wooseok Jeon**
+</div>
 
 # 🎓 Educations
 **B.S. Gwangju Institute of Science and Technology**
