@@ -32,17 +32,17 @@ Here's my brief <a href="../docs/CV.pdf" style="text-decoration:none;"> CV </a>
 
 <span style="color: #FF9E9B">Mar 2024:</span> 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #AFDDFA; text-decoration:none;">RunningMachine</a> received third prize by Social Impact at the GIST AI4GOOD Hackathon!
 
-<span style="color: #FF9E9B">Sep 2023:</span> Joined the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #AFDDFA; text-decoration:none;">GIST Visual AI Lab</a> as an undergraduate research student!
+<span style="color: #FF9E9B">Sep 2023:</span> 🍀🍀 Joined the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #AFDDFA; text-decoration:none;">GIST Visual AI Lab</a> as an undergraduate research student!
 
-<span style="color: #FF9E9B">Aug 2023:</span> Became a part of the <a href="https://sites.google.com/view/gdeveloperskorea/gdsc" style="color: #AFDDFA; text-decoration:none;">GIST GDSC 3rd</a> as a core team member!
+<span style="color: #FF9E9B">Aug 2023:</span> 🍀🍀 Became a part of the <a href="https://sites.google.com/view/gdeveloperskorea/gdsc" style="color: #AFDDFA; text-decoration:none;">GIST GDSC 3rd</a> as a core team member!
 
-<span style="color: #FF9E9B">Jun 2023:</span> Began eight-week experience as a summer session student at <span style="color: #AFDDFA">UC Berkeley</span>!
+<span style="color: #FF9E9B">Jun 2023:</span> ✈️✈️ Began eight-week experience as a summer session student at <span style="color: #AFDDFA">UC Berkeley</span>!
 
 <span style="color: #FF9E9B">Jun 2023:</span> 🎉🎉 <a href="https://github.com/DinnerShow2023Hackathon/Backend" style="color: #AFDDFA; text-decoration:none;">DinnerShow</a> received second prize awarded by AWS at the GIST X GDSC Hackathon!
 
 <span style="color: #FF9E9B">Aug 2022:</span> Participated in a credit exchange program at <span style="color: #AFDDFA">Korea University</span> during the fall semester of 2022!
 
-<span style="color: #FF9E9B">Aug 2022:</span> 🎉🎉 Joined the <a href="https://cafe.naver.com/cjunit" style="color: #AFDDFA; text-decoration:none;">CJ UNIT 7th</a> (SW Creative Camp University Student Volunteer Team) as a team leader!
+<span style="color: #FF9E9B">Aug 2022:</span> 🍀🍀 Joined the <a href="https://cafe.naver.com/cjunit" style="color: #AFDDFA; text-decoration:none;">CJ UNIT 7th</a> (SW Creative Camp University Student Volunteer Team) as a team leader!
 
 # 📝 Publications 
 
