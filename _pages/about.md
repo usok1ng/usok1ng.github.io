@@ -40,7 +40,7 @@ Here's my brief <a href="../docs/CV.pdf" style="text-decoration:none;"> CV </a>
 
 <span style="color: #FF9E9B">Jun 2023:</span> 🎉🎉 <a href="https://github.com/DinnerShow2023Hackathon/Backend" style="color: #AFDDFA; text-decoration:none;">DinnerShow</a> received second prize awarded by AWS at the GIST X GDSC Hackathon!
 
-<span style="color: #FF9E9B">Aug 2022:</span> Participated in a credit exchange program at <span style="color: #AFDDFA">Korea University</span> during the fall semester of 2022!
+<span style="color: #FF9E9B">Aug 2022:</span> 🍀🍀 Participated in a credit exchange program at <span style="color: #AFDDFA">Korea University</span> during the fall semester of 2022!
 
 <span style="color: #FF9E9B">Aug 2022:</span> 🍀🍀 Joined the <a href="https://cafe.naver.com/cjunit" style="color: #AFDDFA; text-decoration:none;">CJ UNIT 7th</a> (SW Creative Camp University Student Volunteer Team) as a team leader!
 
