@@ -19,7 +19,7 @@ redirect_from:
 
 Hi~ Welcome to my page!👋
 
-I am currently doing undergraduate research intern in the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #E0FFFF; text-decoration:none;">**GIST Visual AI Lab**</a> under the supervision of Prof. Haegon Jeon.
+I am currently doing undergraduate research intern in the <a href="https://sites.google.com/site/hgjeoncv/" style="text-decoration:none;">**GIST Visual AI Lab**</a> under the supervision of Prof. Haegon Jeon.
 
 My research interests lie on Inverse Rendering and Novel View Synthesis, with a current focus on Image Relighting. 💡
 
@@ -49,11 +49,11 @@ Here's my brief <a href="../docs/CV.pdf" style="text-decoration:none;"> CV </a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf" style="color: #00FA9A; text-decoration:none;">24Light: Conquer Light in Any Scene with Diffusion Models</span>
+<a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf" style="text-decoration:none;">24Light: Conquer Light in Any Scene with Diffusion Models</a>
 
 **Wooseok Jeon**
 
-Paper | Project Pages | Code | Dataset
+Paper | Project Pages | Code | Datasets
 
 </div>
 </div>
