@@ -17,10 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=About%20Me!&fontSize=70" />
-</div>
-
 Hi~ Welcome to my page!👋
 
 I am currently doing undergraduate research intern in the <a href="https://sites.google.com/site/hgjeoncv/" style="text-decoration:none;">**GIST Visual AI Lab**</a> under the supervision of Prof. Haegon Jeon.
@@ -66,15 +62,13 @@ Here's my brief <a href="../docs/CV.pdf" style="text-decoration:none;"> CV </a>
 
 24Light: Conquer Light in Any Scene with Diffusion Models (working...! 🔥)
 
-# 🎖 Honors and Awards
-
 # 📖 Educations
 **B.S. Gwangju Institute of Science and Technology**
 > Major in Electrical Engineering and Computer Science\
 > Minor in AI Convergence\
 > Mar 2019 ~ Aug 2024
 
-# 💬 Invited Talks
+# 💬 Teachings
 **Computer Systems & Theory Laboratory (EC3102)** 
 > Prof. Jongwon Kim\
 > Spring 2024
