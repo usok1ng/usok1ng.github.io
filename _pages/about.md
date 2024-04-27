@@ -19,7 +19,7 @@ redirect_from:
 
 Hi~ Welcome to my page!👋
 
-I am currently doing undergraduate research intern in the <a href="https://sites.google.com/site/hgjeoncv/" style="text-decoration:none;">**GIST Visual AI Lab**</a> under the supervision of Prof. Haegon Jeon.
+I am currently doing undergraduate research intern in the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #6A5ACD; text-decoration:none;">**GIST Visual AI Lab**</a> under the supervision of Prof. Haegon Jeon.
 
 My research interests lie on Inverse Rendering and Novel View Synthesis, with a current focus on Image Relighting. 💡
 
