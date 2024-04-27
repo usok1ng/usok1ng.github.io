@@ -56,7 +56,6 @@ Here's my brief <a href="../docs/CV.pdf" style="text-decoration:none;"> CV </a>
 Paper | Project Pages | Code | Datasets
 
 </div>
-</div>
 
 # 🎓 Educations
 **B.S. Gwangju Institute of Science and Technology**
