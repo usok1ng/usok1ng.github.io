@@ -46,20 +46,16 @@ Here's my brief <a href="../docs/CV.pdf" style="text-decoration:none;"> CV </a>
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf" style="text-decoration:none;">24Light: Conquer Light in Any Scene with Diffusion Models</a>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    **Wooseok Jeon**
+<a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf" style="text-decoration:none;">24Light: Conquer Light in Any Scene with Diffusion Models</a>
 
-    Paper | Project | Code | Data
-  </div>
+**Wooseok Jeon**
+
+Paper | Project | Code | Data
+
+</div>
 </div>
 
 # 🎓 Educations
