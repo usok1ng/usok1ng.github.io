@@ -28,21 +28,21 @@ My goal is to address illumination problems that have yet to be solved in comput
 Here's my brief <a href="../docs/CV.pdf" style="color: #6A5ACD; text-decoration:none;"> **CV** </a>
 
 # 🔥 Logs
-<span style="color: #FF9E9B;">Apr 2024:</span> 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="text-decoration:none;">Moodista</a> has been honored with a spot in the Global Top 100 teams of the 2024 Google Solution Challenge!
+Apr 2024: 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">Moodista</a> has been honored with a spot in the Global Top 100 teams of the 2024 Google Solution Challenge!
 
-<span style="color: #FF9E9B;">Mar 2024:</span> 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="text-decoration:none;">RunningMachine</a> received third prize by Social Impact at the GIST AI4GOOD Hackathon!
+Mar 2024: 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">RunningMachine</a> received third prize by Social Impact at the GIST AI4GOOD Hackathon!
 
-<span style="color: #FF9E9B">Sep 2023:</span> 🍀🍀 I Joined the <a href="https://sites.google.com/site/hgjeoncv/" style="text-decoration:none;">GIST Visual AI Lab</a> as an undergraduate research student!
+Sep 2023: 🍀🍀 I Joined the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #FF9E9B; text-decoration:none;">GIST Visual AI Lab</a> as an undergraduate research student!
 
-<span style="color: #FF9E9B">Aug 2023:</span> 🍀🍀 I Became a part of the <a href="https://sites.google.com/view/gdeveloperskorea/gdsc" style="text-decoration:none;">GIST GDSC 3rd</a> as a core team member!
+Aug 2023: 🍀🍀 I Became a part of the <a href="https://sites.google.com/view/gdeveloperskorea/gdsc" style="color: #FF9E9B; text-decoration:none;">GIST GDSC 3rd</a> as a core team member!
 
-<span style="color: #FF9E9B">Jun 2023:</span> ✈️✈️ I Began eight-week experience as a summer session student at UC Berkeley!
+Jun 2023: ✈️✈️ I Began eight-week experience as a summer session student at UC Berkeley!
 
-<span style="color: #FF9E9B">Jun 2023:</span> 🎉🎉 <a href="https://github.com/DinnerShow2023Hackathon/Backend" style="text-decoration:none;">DinnerShow</a> received second prize awarded by AWS at the GIST X GDSC Hackathon!
+Jun 2023: 🎉🎉 <a href="https://github.com/DinnerShow2023Hackathon/Backend" style="color: #FF9E9B; text-decoration:none;">DinnerShow</a> received second prize awarded by AWS at the GIST X GDSC Hackathon!
 
-<span style="color: #FF9E9B">Aug 2022:</span> 🍀🍀 I Participated in a credit exchange program at Korea University during the fall semester of 2022!
+Aug 2022: 🍀🍀 I Participated in a credit exchange program at Korea University during the fall semester of 2022!
 
-<span style="color: #FF9E9B">Aug 2022:</span> 🍀🍀 I Joined the <a href="https://cafe.naver.com/cjunit" style=" text-decoration:none;">CJ UNIT 7th</a> (SW Creative Camp University Student Volunteer Team) as a team leader!
+Aug 2022: 🍀🍀 I Joined the <a href="https://cafe.naver.com/cjunit" style="color: #FF9E9B; text-decoration:none;">CJ UNIT 7th</a> (SW Creative Camp University Student Volunteer Team) as a team leader!
 
 # 📝 Publications 
 
