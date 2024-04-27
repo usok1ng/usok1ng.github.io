@@ -53,7 +53,7 @@ Here's my brief <a href="../docs/CV.pdf" style="text-decoration:none;"> CV </a>
 
 **Wooseok Jeon**
 
-Paper | Project Pages | Code | Datasets
+Paper | Project | Code | Datasets
 
 </div>
 
