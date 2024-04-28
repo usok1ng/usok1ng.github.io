@@ -25,7 +25,7 @@ My research interests lie on Inverse Rendering and Novel View Synthesis, with a 
 
 My goal is to address illumination problems that have yet to be solved in computer vision and graphics. 🤔
 
-Here's my brief <a href="../docs/CV.pdf" style="color: #6A5ACD; text-decoration:none;"> **CV** </a>
+Here's my brief <a href="../assets/CV.pdf" style="color: #6A5ACD; text-decoration:none;"> **CV** </a>
 
 # 🔥 Logs
 Apr 2024: 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">Moodista</a> has been honored with a spot in the Global Top 100 teams of the 2024 Google Solution Challenge!
