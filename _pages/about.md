@@ -10,6 +10,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<blockquote style="color: red;">
+인용문입니다.
+</blockquote>
+
 Hi~ Welcome to my page!👋
 
 I am currently doing undergraduate research intern in the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #6A5ACD; text-decoration:none;">**GIST Visual AI Lab**</a> under the supervision of Prof. Haegon Jeon.
