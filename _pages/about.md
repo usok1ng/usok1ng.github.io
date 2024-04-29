@@ -10,10 +10,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<blockquote style="color: red;">
-인용문입니다.
-</blockquote>
-
 Hi~ Welcome to my page!👋
 
 I am currently doing undergraduate research intern in the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #6A5ACD; text-decoration:none;">**GIST Visual AI Lab**</a> under the supervision of Prof. Haegon Jeon.
@@ -56,10 +52,11 @@ Paper | Project | Code | Data
 </div>
 
 # 🎓 Educations
-**B.S. Gwangju Institute of Science and Technology**
-> Major in Electrical Engineering and Computer Science\
-> Minor in AI Convergence\
-> Mar 2019 ~ Aug 2024
+<blockquote style="border: 1px solid #27a9e3; margin-left: 0px; margin-right: 0px; padding-left: 20px; padding-right: 20px; border-left: 10px solid #27a9e3;">
+B.S. in Electrical Engineering and Computer Science and AI Convergence<br>
+Gwangju Institute of Science and Technology<br>
+Mar 2019 ~ Aug 2024
+</blockquote>
 
 # 💯 Teachings
 ✅ **Computer Systems & Theory Laboratory (EC3102)** 
