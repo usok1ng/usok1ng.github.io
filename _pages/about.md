@@ -36,9 +36,9 @@ Aug 2022: 🍀🍀 I Participated in a credit exchange program at Korea Universi
 
 Aug 2022: 🍀🍀 I Joined the <a href="https://cafe.naver.com/cjunit" style="color: #FF9E9B; text-decoration:none;">CJ UNIT 7th</a> (SW Creative Camp University Student Volunteer Team) as a team leader!
 
-# 📝 Publications 
+# 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">URP</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf" style="color: #6A5ACD; text-decoration:none;">**24Light: Conquer Light in Any Scene with Diffusion Models**</a>
