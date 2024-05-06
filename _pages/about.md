@@ -22,7 +22,7 @@ Here's my brief <a href="../assets/CV.pdf" class="link-in-list" style="color: #6
 # 🔥 Logs
 Apr 2024: 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">Moodista</a> has been honored with a spot in the Global Top 100 teams of the 2024 Google Solution Challenge! (over 4700 teams joined)
 
-Mar 2024: 🎉🎉 Team<a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">Running Machine</a> received third prize awarded by Social Impact at the AI4GOOD Hackathon!
+Mar 2024: 🎉🎉 Team <a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">Running Machine</a> received third prize awarded by Social Impact at the AI4GOOD Hackathon!
 
 Sep 2023: 🍀🍀 I Joined the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #FF9E9B; text-decoration:none;">GIST Visual AI Lab</a> as an undergraduate research student!
 
@@ -30,7 +30,7 @@ Aug 2023: 🍀🍀 I Became a part of the <a href="https://sites.google.com/view
 
 Jun 2023: ✈️✈️ I Began eight-week experience as a summer session student at UC Berkeley!
 
-Jun 2023: 🎉🎉 <a href="https://github.com/DinnerShow2023Hackathon/Backend" style="color: #FF9E9B; text-decoration:none;">DinnerShow</a> received second prize awarded by AWS at the GIST X GDSC Hackathon!
+Jun 2023: 🎉🎉 Team <a href="https://github.com/DinnerShow2023Hackathon/Backend" style="color: #FF9E9B; text-decoration:none;">Dinner Show</a> received second prize awarded by AWS at the GIST X GDSC Hackathon!
 
 Aug 2022: 🍀🍀 I Participated in a credit exchange program at Korea University during the fall semester of 2022!
 
