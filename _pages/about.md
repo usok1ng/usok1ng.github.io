@@ -22,7 +22,7 @@ Here's my brief <a href="../assets/CV.pdf" class="link-in-list" style="color: #6
 # 🔥 Logs
 Apr 2024: 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">Moodista</a> has been honored with a spot in the Global Top 100 teams of the 2024 Google Solution Challenge! (over 4700 teams joined)
 
-Mar 2024: 🎉🎉 <a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">RunningMachine</a> received third prize by Social Impact at the GIST AI4GOOD Hackathon!
+Mar 2024: 🎉🎉 Team<a href="https://github.com/jaehee831/2024-solution-challenge" style="color: #FF9E9B; text-decoration:none;">Running Machine</a> received third prize awarded by Social Impact at the AI4GOOD Hackathon!
 
 Sep 2023: 🍀🍀 I Joined the <a href="https://sites.google.com/site/hgjeoncv/" style="color: #FF9E9B; text-decoration:none;">GIST Visual AI Lab</a> as an undergraduate research student!
 
