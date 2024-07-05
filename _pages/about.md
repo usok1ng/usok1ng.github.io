@@ -54,7 +54,10 @@ Paper | Project | Code | Data
 **B.S. Gwangju Institute of Science and Technology**
 > Major in Electrical Engineering and Computer Science\
 > Minor in AI Convergence\
-> Mar 2019 ~ Aug 2024
+> Spring 2019 ~ Spring 2024
+**M.S. Ph.D. Gwangju Institute of Science and Technology**
+> Visual AI Lab
+> Fall 2024 ~ Present
 
 # 💯 Teachings
 ✅ **Computer Systems & Theory Laboratory (EC3102)** 
